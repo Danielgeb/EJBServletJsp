@@ -41,6 +41,6 @@ public class JdbcExample { // EJB lite also know as No-interface
 		}
 		return empList;
 
-	}// JVM Shutdhown and release all memory but
+	}
 
 }
